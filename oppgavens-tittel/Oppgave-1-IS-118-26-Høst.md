@@ -10,3 +10,16 @@
 ## Prosjektlederpakken
 
 ### Prosjektlederen må først sette sammen en gruppe som skal arbeide med ham for å gjennomføre prosjektet. Deretter må han være godt forberedt til første møte med gruppen, opprette en kontrakt med gruppens medlemmer, være klar for konflikthåndtering og ha en klar tidsplan.
+
+
+
+### punkt 1 og 2 (Vilde)
+
+
+### punkt 3 og 4 (Zara)
+
+
+### punkt 5 (Mariell)
+
+
+### punkt 6 (Nils)

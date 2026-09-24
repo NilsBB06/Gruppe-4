@@ -32,8 +32,16 @@ Det er og viktig å se på hvordan man organiserer hvem som har ansvar for å my
 Deretter kan det være lurt å sette flere tidsfrister i løpet av prosjekttiden, slik at man enkelt kan prioritere én ting av gangen før man går videre til neste del av prosjektet. Opprett gjerne en form for direkte kommunikasjon blant deltakerne hvor de fortløpende kan laste opp ting de har gjort. Dette vil gjøre at man får en god oversikt over progresjonen i prosjektet og til hvert enkelt medlem fortløpende, og dermed oppdage om noe ikke går som forventet. (Jacobsen, 2016, s.50)
 
 
-Kilder:
-Dag Ingar Jacobsen, 2016, Engangsorganisasjonen, Fagbokforlaget
-
 
 ### punkt 6 (Nils)
+## Sikring av god kommunikasjon
+God kommunikasjon er det som holder prosjektet sammen. Selv om man har satt sammen en god gruppe og hatt et bra oppstartsmøte, kan prosjektet fort stoppe opp hvis folk ikke får den informasjonen de trenger. Dette er ekstra viktig i Erling sitt prosjekt, siden gruppen består av folk fra kommunen, en politisk rådgiver, fagfolk og brukere. Alle disse har ulik bakgrunn og ulik erfaring med digitale løsninger, derfor må prosjektlederen tenke nøye gjennom hvordan informasjon skal deles, og med hvem.
+Et lurt sted å starte er at prosjektleder kartlegger hvem som er de viktigste interessentene i prosjektet, og hva de trenger av informasjon. Da kan man se på hvor mye innflytelse og interesse de ulike partene har, og bruke dette til å bestemme hvor tett de bør følges opp. Dette kan være lurt å følge opp mot styringsgruppa eller de som sitter med pengene, der de burde ha tett oppfølging. Brukerne trenger kanskje bare å holdes jevnlig informert (Rolstadås, 2026). Dette gjør det mer forutsigbart for alle, og gjør at ingen føler seg utenfor eller dårligere informert enn resten.
+Prosjektleder bør også bruke både formell og uformell kommunikasjon. Da kan formell kommunikasjon, som f.eks faste møter og korte referater, gjøre at beslutninger blir skrevet ned og synlige for alle. Dette er spesielt viktig siden prosjektet skal rapportere fremdrift og budsjett til bystyret. På den andre siden har man uformell kommunikasjon som en felles chat eller en kort prat før møtene, dette hjelper derimot med å holde på de gode relasjonene fra oppstartsmøtet. Begge deler trengs, og de bør ikke erstatte hverandre.
+I tillegg bør prosjektleder tilpasse hvordan ting blir forklart eller formulert, ut fra hvem som skal høre det. Tekniske detaljer om sikkerhet kan være nødvendig for noen roller, men kan virke vanskelig å forstå for den politiske rådgiveren eller brukerne. Derfor bør viktig informasjon også finnes i en enklere versjon. Dette er slik at deler av gruppa ikke faller utenfor når beslutninger skal tas.
+Til slutt henger god kommunikasjon sammen med at noen i gruppa tar ansvar for det sosiale. Hvis noen aktivt jobber for åpenhet og et godt miljø, blir det lettere for folk å si ifra om bekymringer eller uenigheter tidlig. Det gjør at små problemer ikke rekker å bli til store konflikter.
+
+
+Kilder:
+Dag Ingar Jacobsen, 2016, Engangsorganisasjonen, Fagbokforlaget
+Rolstadås, A. (2026). Interessentanalyse. I Store norske leksikon. Hentet fra https://snl.no/interessentanalyse 
